@@ -1,7 +1,7 @@
 # GitHub Action
 # https://help.github.com/en/actions/automating-your-workflow-with-github-actions/metadata-syntax-for-github-actions
 
-name: NPM Publish
+name: NPM Publisher
 description: Fast, easy publishing to NPM
 
 author: lyzhang1999
